@@ -39,20 +39,10 @@
 
 ### 🛠 Skills & Tools  
 
-| C | C++ | Python | JavaScript | Java | HTML5 | CSS3 |
-|----|----|----|----|----|----|----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <br> C | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <br> C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <br> Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <br> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <br> Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <br> HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> <br> CSS3 |
-
-| React | Redux | Tailwind | Node.js | Express.js | MongoDB | MySQL |
 |----|----|----|----|----|----|----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <br> React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/> <br> Redux | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> <br> Tailwind | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> <br> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> <br> Express.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> <br> MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> <br> MySQL |
-
-| Oracle | Git | GitHub | Postman | Figma | Framer Motion | Clerk |
-|----|----|----|----|----|----|----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/> <br> Oracle | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> <br> Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> <br> GitHub | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> <br> Postman | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> <br> Figma | <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40"/> <br> Framer Motion | <img src="https://avatars.githubusercontent.com/u/115713320?s=200&v=4" width="40"/> <br> Clerk |
-
-
-
 
 ### 📊 GitHub Analytics
 <p align="center">
