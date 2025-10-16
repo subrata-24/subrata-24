@@ -22,15 +22,34 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **B.Sc. in CSE** from Patuakhali Science and Technology University
-- 🏆 **2x ICPC Regionalist (2023, 2024)** | Solved **2000+ problems** across platforms    
-- 👨‍🏫 **Competitive Programming Trainer** – mentored 150+ students   
+- 🎓 **B.Sc. in CSE** from Patuakhali Science and Technology University  
+- 🏆 **2x ICPC Regionalist (2023, 2024)** | Solved **2000+ problems** across platforms  
+- 👨‍🏫 **Competitive Programming Trainer** – mentored 150+ students  
+
+---
+
+### 💻 Current Project
+
+#### 🥘 [MealMate](https://github.com/subrata-24/MealMate)
+> *Full-Stack Food Delivery Web Application – Ongoing Development*
+
+MealMate is a **MERN-stack** application designed for efficient **food ordering and delivery management**.  
+It integrates **real-time location tracking**, **geospatial queries**, and **automated delivery assignment**.
+
+**Tech Stack:** React · Redux · Tailwind CSS · Node.js · Express.js · MongoDB (GeoJSON · 2dsphere)  
+**Key Features:**  
+- Real-time order status updates & delivery tracking  
+- Auto-assign nearby delivery persons  
+- Shop owner dashboards & order management  
+- Secure API endpoints and modular backend architecture  
+
+📅 *Status:* Actively in Development  
 
 ---
 
 ### 🏅 Competitive Programming Highlights 
 - 🥈 12th – Inter University Programming Contest 2025 (Uttara University)  
-- 🥉 44th – CUET Inter University Programming Contest 2023
+- 🥉 44th – CUET Inter University Programming Contest 2023  
 - ⭐ Codeforces: **Specialist (Max Rating 1495)**  
 - ⭐ CodeChef: **3★ (Max Rating 1764)**  
 - ⭐ LeetCode: **Max Rating 1605**  
@@ -51,6 +70,5 @@
 </p>
 
 ---
-
 
 <h3 align="center">✨ Let’s Connect & Build Something Amazing! ✨</h3>
