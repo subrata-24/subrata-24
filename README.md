@@ -28,22 +28,25 @@
 
 ---
 
-### 💻 Current Project
+### 🚀 Current Project
 
-#### 🥘 [MealMate](https://github.com/subrata-24/MealMate)
-> *Full-Stack Food Delivery Web Application – Ongoing Development*
+### 🥘 [MealMate](https://github.com/subrata-24/MealMate)
+> Full-Stack Food Delivery Web Application — *Ongoing Development*
 
-MealMate is a **MERN-stack** application designed for efficient **food ordering and delivery management**.  
-It integrates **real-time location tracking**, **geospatial queries**, and **automated delivery assignment**.
+MealMate is a **MERN-stack** (MongoDB, Express.js, React, Node.js) web app designed for **food ordering and delivery management**.
 
-**Tech Stack:** React · Redux · Tailwind CSS · Node.js · Express.js · MongoDB (GeoJSON · 2dsphere)  
-**Key Features:**  
-- Real-time order status updates & delivery tracking  
-- Auto-assign nearby delivery persons  
-- Shop owner dashboards & order management  
-- Secure API endpoints and modular backend architecture  
+**🔧 Tech Stack:**  
+Frontend — React, Redux, Tailwind CSS  
+Backend — Node.js, Express.js, MongoDB (Mongoose), JWT Authentication  
+Other — Real-Time Location Tracking, GeoJSON (2dsphere) for nearby delivery assignment
 
-📅 *Status:* Actively in Development  
+**🛠 Current Work:**  
+- Implementing **real-time order tracking** for users and delivery partners  
+- Adding **shop-owner dashboards** and **delivery assignment logic**  
+- Integrating **geospatial queries** for nearby restaurant suggestions  
+
+📅 *Status:* In Progress  
+  
 
 ---
 
