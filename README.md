@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 - 🎓 **B.Sc. in CSE** from Patuakhali Science and Technology University  
-- 🏆 **2x ICPC Regionalist (2023, 2024)** | Solved **2000+ problems** across platforms  
+- 🏆 **3x ICPC Regionalist (2023, 2024, 2025)** | Solved **2500+ problems** across platforms  
 - 👨‍🏫 **Competitive Programming Trainer** – mentored 150+ students  
 
 ---
@@ -34,6 +34,8 @@
 > Full-Stack Food Delivery & Management Web Application
 
 **MealMate** is a **MERN-stack** (MongoDB, Express.js, React, Node.js) web app designed for seamless **food ordering, delivery management, and shop control** — connecting customers, shop owners, and delivery partners on one platform.
+
+**Live Demo**: https://mealmate-1-yza8.onrender.com/
 
 **🔧 Tech Stack:**  
 Frontend — React, Redux, Tailwind CSS  
@@ -57,8 +59,8 @@ Other — Google Login, GeoJSON (2dsphere) for nearby delivery detection
 - 🥈 12th – Inter University Programming Contest 2025 (Uttara University)  
 - 🥉 44th – CUET Inter University Programming Contest 2023  
 - ⭐ Codeforces: **Specialist (Max Rating 1495)**  
-- ⭐ CodeChef: **3★ (Max Rating 1764)**  
-- ⭐ LeetCode: **Max Rating 1605**  
+- ⭐ CodeChef: **3★ (Max Rating 1784)**  
+- ⭐ LeetCode: **Max Rating 1710**  
 
 ---
 
