@@ -28,38 +28,11 @@
 
 ---
 
-### 🚀Project in Development
-
-### 🥘 [MealMate](https://github.com/subrata-24/MealMate)
-> Full-Stack Food Delivery & Management Web Application
-
-**MealMate** is a **MERN-stack** (MongoDB, Express.js, React, Node.js) web app designed for seamless **food ordering, delivery management, and shop control** — connecting customers, shop owners, and delivery partners on one platform.
-
-**Live Demo**: https://mealmate-1-yza8.onrender.com/
-
-**🔧 Tech Stack:**  
-Frontend — React, Redux, Tailwind CSS  
-Backend — Node.js, Express.js, MongoDB (Mongoose), JWT Authentication  
-Other — Google Login, GeoJSON (2dsphere) for nearby delivery detection
-
-**✨ Key Features:**  
-- 👤 **Multi-role Authentication:** Sign up/login for Owner, User, and Delivery Boy (with Google Auth & Forgot Password)  
-- 🏪 **Owner Dashboard:** Add/edit shops & food items, manage orders, and update order status  
-- 🍔 **User Experience:** Browse shops & food by category, place orders via **online/offline payments**, and post reviews  
-- 🗺️ **Smart Map Integration:** Displays user’s current location and nearby shops dynamically  
-- 🚴 **Delivery System:** Delivery boys automatically receive order notifications if they’re within **5 km** of the customer’s location  
-- 💳 **Secure Transactions:** Supports multiple payment methods with real-time updates  
-
-📦 *Status:* Completed Core Features & UI Development
-
-
----
-
 ### 🏅 Competitive Programming Highlights 
 - 🥈 12th – Inter University Programming Contest 2025 (Uttara University)  
 - 🥉 44th – CUET Inter University Programming Contest 2023  
 - ⭐ Codeforces: **Specialist (Max Rating 1495)**  
-- ⭐ CodeChef: **3★ (Max Rating 1784)**  
+- ⭐ CodeChef: **4★ (Max Rating 1812)**  
 - ⭐ LeetCode: **Max Rating 1710**  
 
 ---
