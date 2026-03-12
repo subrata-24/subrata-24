@@ -33,7 +33,7 @@
 - 🥉 44th – CUET Inter University Programming Contest 2023  
 - ⭐ Codeforces: **Specialist (Max Rating 1495)**  
 - ⭐ CodeChef: **4★ (Max Rating 1812)**  
-- ⭐ LeetCode: **Max Rating 1710**  
+- ⭐ LeetCode: **Max Rating 1790**  
 
 ---
 
